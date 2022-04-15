@@ -36,4 +36,9 @@ public class Kleidungsstück extends Ware{
     public String getMaterial() {
         return Material;
     }
+
+    public void gebeKleidungsstückAus(){
+        System.out.println(getAnzahl() + " " + getArt() + " kostet " + getPreis() + "€. Es ist " + getFarbe() +
+                " und hat Größe " + getGroesse() + ". Das " + getArt() + " ist aus " + getMaterial() + ".");
+    }
 }

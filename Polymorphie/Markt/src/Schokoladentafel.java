@@ -20,4 +20,10 @@ public class Schokoladentafel extends Lebensmittel{
     public String getSorte() {
         return Sorte;
     }
+
+    public void gebeSchokoladentafelAus(){
+        System.out.println(getAnzahl() + " Tafel " + getSorte() + " kostet " + getPreis() + "€ und hat einen Kakaogehalt " +
+                "von " + getKakaogehalt() + "%. Bitte lagern Sie die " + getSorte() + " bei höchstens " +
+                getMaxLagerTemperatur() + "°C und verzehren Sie diese bis spätestens " + getVerfallDatum() + ".");
+    }
 }

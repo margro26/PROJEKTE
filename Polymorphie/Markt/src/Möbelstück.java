@@ -36,4 +36,9 @@ public class Möbelstück extends Ware{
     public String getTyp() {
         return Typ;
     }
+
+    public void gebeMöbelstückAus(){
+        System.out.println(getAnzahl() + " " + getTyp() + " kostet " + getPreis() + "€. Es ist " + getHoehe() +
+                "cm hoch, " + getBreite() + "cm breit und " + getTiefe() + "cm tief.");
+    }
 }
