@@ -12,9 +12,9 @@ public class Milchpackung extends Lebensmittel{
     public void setHocherhitzt(boolean hocherhitzt) {
         Hocherhitzt = hocherhitzt;
     }
-//    public boolean isHocherhitzt() {
-//        return Hocherhitzt;
-//    }
+    public boolean  isHocherhitzt() {
+        return Hocherhitzt;
+    }
     public void setTyp(String typ) {
         Typ = typ;
     }
@@ -22,13 +22,13 @@ public class Milchpackung extends Lebensmittel{
         return Typ;
     }
 
-//    boolean h = Hocherhitzt;
-//
-//    if (h == true) {
-//        fragehocherhitzt = "hocherhitzt";
-//    } else {
-//        fragehocherhitzt = "nicht hocherhitzt";
-//    }
+    boolean h = Hocherhitzt;
+
+    if (h == true) {
+        fragehocherhitzt = "hocherhitzt";
+    } else {
+        fragehocherhitzt = "nicht hocherhitzt";
+    }
 
     public void gebeMilchpackungAus(){
         System.out.println(getAnzahl() + " " + getTyp() + " kostet " + getPreis() + "€. Bitte lagern Sie die " +
