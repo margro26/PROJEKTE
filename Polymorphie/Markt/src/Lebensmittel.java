@@ -8,14 +8,8 @@ public class Lebensmittel extends Ware{
         VerfallDatum = verfallDatum;
     }
 
-    public void setMaxLagerTemperatur(int maxLagerTemperatur) {
-        MaxLagerTemperatur = maxLagerTemperatur;
-    }
     public int getMaxLagerTemperatur() {
         return MaxLagerTemperatur;
-    }
-    public void setVerfallDatum(String verfallDatum) {
-        VerfallDatum = verfallDatum;
     }
     public String getVerfallDatum() {
         return VerfallDatum;

@@ -12,26 +12,14 @@ public class Kleidungsstück extends Ware{
         Material = material;
     }
 
-    public void setGroesse(int groesse) {
-        Groesse = groesse;
-    }
     public int getGroesse() {
         return Groesse;
-    }
-    public void setArt(String art) {
-        Art = art;
     }
     public String getArt() {
         return Art;
     }
-    public void setFarbe(String farbe) {
-        Farbe = farbe;
-    }
     public String getFarbe() {
         return Farbe;
-    }
-    public void setMaterial(String material) {
-        Material = material;
     }
     public String getMaterial() {
         return Material;

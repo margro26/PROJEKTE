@@ -7,14 +7,8 @@ public class Ware {
         Anzahl = anzahl;
     }
 
-    public void setPreis(double preis) {
-        Preis = preis;
-    }
     public double getPreis() {
         return Preis;
-    }
-    public void setAnzahl(int anzahl) {
-        Anzahl = anzahl;
     }
     public int getAnzahl() {
         return Anzahl;

@@ -2,18 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Q1/GUI/AnzahlBuchstaben/AnzahlBuchstaben.iml" filepath="$PROJECT_DIR$/Q1/GUI/AnzahlBuchstaben/AnzahlBuchstaben.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diagramme/Diagramme.iml" filepath="$PROJECT_DIR$/Diagramme/Diagramme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1/Einfuehrung_in_Java/Einfuehrung_in_Java.iml" filepath="$PROJECT_DIR$/Q1/Einfuehrung_in_Java/Einfuehrung_in_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1/GUI/GUI.iml" filepath="$PROJECT_DIR$/Q1/GUI/GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Klasse_String/Klasse_String.iml" filepath="$PROJECT_DIR$/Klasse_String/Klasse_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1/GUI/Liste/Liste.iml" filepath="$PROJECT_DIR$/Q1/GUI/Liste/Liste.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphie/Markt/Markt.iml" filepath="$PROJECT_DIR$/Polymorphie/Markt/Markt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methoden/Methoden.iml" filepath="$PROJECT_DIR$/Methoden/Methoden.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objektorientierung/Objektorientierung.iml" filepath="$PROJECT_DIR$/Objektorientierung/Objektorientierung.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PROJEKTE.iml" filepath="$PROJECT_DIR$/.idea/PROJEKTE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphie/Polymorphie.iml" filepath="$PROJECT_DIR$/Polymorphie/Polymorphie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1/Q1.iml" filepath="$PROJECT_DIR$/Q1/Q1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Schleifen/Schleifen.iml" filepath="$PROJECT_DIR$/Schleifen/Schleifen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortierverfahren/Sortierverfahren.iml" filepath="$PROJECT_DIR$/Sortierverfahren/Sortierverfahren.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vererbung/Vererbung.iml" filepath="$PROJECT_DIR$/Vererbung/Vererbung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Verzweigungen/Verzweigungen.iml" filepath="$PROJECT_DIR$/Verzweigungen/Verzweigungen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vererbung/Waren.iml" filepath="$PROJECT_DIR$/Vererbung/Waren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1/GUI/ZweiteGUI/ZweiteGUI.iml" filepath="$PROJECT_DIR$/Q1/GUI/ZweiteGUI/ZweiteGUI.iml" />
     </modules>
   </component>
 </project>
