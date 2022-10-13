@@ -15,4 +15,5 @@ public class controller {
         tf1.setText("Element für Liste eingeben!");
         lb1.setText("Hier kommt Ihre Liste hin!");
     }
+
 }
